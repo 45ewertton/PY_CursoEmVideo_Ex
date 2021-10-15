@@ -1,3 +1,5 @@
+#Métodos para dissecar strings...
+
 something = input('Digite algo: ')
 
 print(f'O tipo primitivo de {something} é {type(something)}')

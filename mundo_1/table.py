@@ -1,3 +1,5 @@
+#Tabuada simples
+
 num = int(input("Digite um número: "))
 
 print(f"{num} x {1} = {num*1}")

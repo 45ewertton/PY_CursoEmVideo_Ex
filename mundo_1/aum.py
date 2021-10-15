@@ -1,3 +1,5 @@
+#Calculando o aumento de salário de um colaborador
+
 sal = float(input("Qual é o salário? R$"))
 novo = sal + (sal * 15 / 100)
 

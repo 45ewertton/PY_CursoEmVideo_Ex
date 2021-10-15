@@ -1,3 +1,5 @@
+#Antecessor e sucessor de um número requerido pelo o usuário
+
 num = int(input("Digite um número: "))
 
 a = num - 1

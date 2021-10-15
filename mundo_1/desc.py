@@ -1,3 +1,5 @@
+#Desconto de um produto
+
 preco = float(input("Qual é o preço do produto? R$"))
 novo = preco - (preco * 5 / 100)
 

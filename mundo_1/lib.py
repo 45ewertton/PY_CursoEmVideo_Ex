@@ -1,3 +1,5 @@
+#Importando a lib math, fazendo a raiz quadrada atraves do método sqrt()
+
 from math import sqrt
 
 num = int(input("Digite um número: "))
